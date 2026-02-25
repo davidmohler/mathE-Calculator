@@ -23,8 +23,8 @@
   "devDependencies": {
     "@angular/cli": "^16.2.0",
     "@angular/compiler-cli": "^16.2.0",
-    "@angular-devkit/build-angular": "^0.1602.0",
-    "typescript": "^5.1.6",
+    "@angular-devkit/build-angular": "^16.2.0",
+    "typescript": "5.1.6",
     "angular-cli-ghpages": "^1.0.0"
   }
 }

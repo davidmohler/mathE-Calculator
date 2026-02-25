@@ -27,5 +27,8 @@
       }
     }
   },
-  "defaultProject": "mathE-calculator"
+  "defaultProject": "mathE-calculator",
+  "cli": {
+    "analytics": "3ca9b5b5-7941-4492-ae28-b54602111eb9"
+  }
 }
